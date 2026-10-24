@@ -1,0 +1,6 @@
+# added the version of Python to the file to ensure compatibility with the project and its dependencies.
+Python 3.15.1
+asgiref==3.13.0
+Django==6.1.2
+sqlparse==0.6.0
+tzdata==2026.5
